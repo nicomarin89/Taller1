@@ -1,0 +1,13 @@
+tipo:EXTRA:7000:50.0
+tipo:Corriente:4500:300.0
+tipo:Premium:10000:100.0
+tipo:PROMAX:5000:200.0
+surtidor:Nicolas:EXTRA:0.0:Corriente:0.0:Premium:0.0:PROMAX:0.0
+surtidor:Erika:EXTRA:0.0:Corriente:0.0:Premium:0.0:PROMAX:0.0
+surtidor:Daniel:EXTRA:0.0:Corriente:0.0:Premium:0.0:PROMAX:0.0
+surtidor:Erika:EXTRA:0.0:Corriente:0.0:Premium:0.0:PROMAX:0.0
+empleado:Javier:0
+empleado:Erika:0
+empleado:Daniel:0
+empleado:Nicolas:0
+empleado:Oscar:0
